@@ -76,4 +76,4 @@ addButton.addEventListener("click", () => addNewNote());
 // Notes app using concept of local storage.
 
 
-Note App made using Html, Css and Javascript. This project gives a glimpse of the concept of Local Storage in JS.
+// Note App made using Html, Css and Javascript. This project gives a glimpse of the concept of Local Storage in JS.
